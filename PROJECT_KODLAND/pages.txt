@@ -1,0 +1,6 @@
+1. index.html : sitenin ismi ve konusunu içeren sayfa
+2. reasons.html : iklim deðiþikliðin nedenlerini içeren sayfa
+3. precautions.html : iklim deðiþikliðini önlemek için tedbirler içeren sayfa
+4. results.html : iklim deðiþikliðin yol açabileceði sonuçlarý içeren sayfa
+5. informations.html : Ýklim deðiþikliði ile ilgili bilgiler içeren sayfa
+6. developers.html : Sitenin geliþtiricilerini içeren sayfa
